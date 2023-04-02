@@ -1,4 +1,4 @@
-![github_header](https://github.com/ericthansen/ericthansen/blob/main/EricHansen-scotland-wild-camping_cac47b8b56.jpg?raw=true)
+![github_header](https://github.com/ericthansen/ericthansen/blob/main/EricHansen-scotland-wild-camping2?raw=true)
 
 ## Hi there! 👋🏼
 
