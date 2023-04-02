@@ -12,7 +12,7 @@ I branched out into data science and machine learning because I find the underly
 - 🌱 I’m also working on a website and regression model for advising players and teams in League of Legends!
 - 👯 Open to collaborate on data and machine learning projects that tell interesting stories and/or have a social impact
 - 💬 Ask me about neural networks for image classification with Keras/Tensorflow, natural language processing, and medical diagnosis
-- 🗽 Atlanta-based, remote-work-friendly!
+- 🗽 Atlanta-based, remote-work-friendly
 - 🥅 Goal: Black belt in Taekwondo!
 
 ### Connect with me:
